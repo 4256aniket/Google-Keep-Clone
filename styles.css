@@ -36,7 +36,6 @@ button {
 #notes {
   padding: 23px;
   display: flex;
-  justify-content: space-around;
   flex-wrap: wrap;
 }
 
